@@ -150,7 +150,7 @@ Result: Zero-downtime deployments with automatic safety net
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/driftwatch.git
+git clone https://github.com/suvan8806/DriftWatch.git
 cd driftwatch
 
 # Create virtual environment (recommended)
