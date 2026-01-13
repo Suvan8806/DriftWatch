@@ -484,7 +484,7 @@ After 50 consecutive normal samples (|z| ≤ 2.0):
 
 ## 🏢 Enterprise Considerations
 
-### For Capital One & Financial Services
+### For Financial Services
 
 #### Reliability & Compliance
 - **Audit Trail**: Immutable log of all state transitions
@@ -685,7 +685,7 @@ spec:
 
 ---
 
-## 💡 Why This Project Matters for Capital One
+## 💡 Why This Project Matters
 
 ### 1. **Real-World Problem Solving**
 Addresses actual challenges in banking infrastructure: detecting payment service degradation before customer impact.
@@ -717,12 +717,9 @@ Addresses actual challenges in banking infrastructure: detecting payment service
 ---
 
 ## 🤝 Contributing
-
-This project is a technical demonstration for Capital One internship application.
-
 For questions or feedback:
 - Open an issue on GitHub
-- Email: [your-email@example.com]
+- Email: [suvan.kasina8@gmail.com]
 
 ---
 
@@ -742,12 +739,9 @@ MIT License - See LICENSE file for details
 
 ## 📞 Contact
 
-**Developer**: [Your Name]
-**Email**: [your-email@example.com]
-**LinkedIn**: [your-linkedin]
-**GitHub**: [your-github]
+**Developer**: [Suvan Kasina]
+**Email**: [suvan.kasina8@gmail.com]
 
-**Built for Capital One Software Engineering Internship 2026**
 
 ---
 
