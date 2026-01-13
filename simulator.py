@@ -301,9 +301,11 @@ class DriftWatchSimulator:
                 else:
                     failed_count += 1
                 
+                # Calculate elapsed time
+                elapsed = asyncio.get_event_loop().time() - start_time
+                
                 # Progress indicator
                 if (i + 1) % (samples_per_sec * 5) == 0:
-                    elapsed = asyncio.get_event_loop().time() - start_time
                     print(f"  [{elapsed:6.1f}s] Sent: {sent_count:4d} | "
                           f"Failed: {failed_count:2d} | "
                           f"Latest: lat={latency:6.1f}ms pay={payload:4.1f}kb")
